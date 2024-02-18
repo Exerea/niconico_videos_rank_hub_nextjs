@@ -1,0 +1,2 @@
+# niconico_videos_rank_hub_nextjs
+ニコニコ動画の日間ランキング、月間ランキング、年間ランキングを一覧できるサイト
